@@ -56,26 +56,25 @@ Please do the following things in order to be ready for the workshop:
 
 ### All
 
-- Start the Docker host/daemon on your machine
-- Open a terminal and hit `docker run hello-world:latest` to check if your docker installation is working correctly
-- Git clone or download this repo
-- Open a terminal in the cloned/downloaded repo/folder and execute `docker-compose up -d`  
-  (this will pull down the latest images and spin up the containers)
+- Start the Docker host/daemon on your machine.
+- Open a terminal and hit `docker run hello-world:latest` to check if your docker installation is working correctly.
+- Git clone or download this repo.
+- Open a terminal in the cloned/downloaded repo, navigate into the folder /gitea and execute `docker-compose up -d`  
+  (this will pull down the latest Gitea docker image and spin up a container).
 - Navigate to [localhost:3000](http://localhost:3000/) in your browser. You should now see the start page of your Gitea installation!
-- Click the menu 'Explore' (upper left) and finish the database installation by clicking 'Install Gitea' at the very bottom
-- Create an account by clicking on the menu 'Register' on the upper right of the main page
+- Click the menu 'Explore' (upper left) and finish the database installation by simply clicking the button 'Install Gitea' at the very bottom of the page.
 
 That's it! Now you're armed and ready for the workshop!
 
-From now on each time you start/restart the docker host/daemon on your machine, the two containers (gitea webapp & mysql database) will be started automatically. Your self-hosted Git remote repository manager will be at your service!
+From now on each time you start/restart the docker host/daemon on your machine, the Gitea container will be started automatically. Your self-hosted Git remote repository manager will be at your service!
 
 ## Further helpful docker commands
 
 - To view the container logs execute: `docker-compose logs`
 - To upgrade your Gitea installation to the latest release:
-  - Stop the running containers: `docker-compose down`
-  - Pull the latest images: `docker-compose pull`
-  - Create and start two new containers (the old ones will be removed automatically): `docker-compose up -d`
+  - Stop the running container: `docker-compose down`
+  - Pull the latest image: `docker-compose pull`
+  - Create and start two new container (the old one will be removed automatically): `docker-compose up -d`
 - If you want to remove ALL old unused images from your machine use: `docker image prune -a`
   (further docs [here](https://docs.docker.com/engine/reference/commandline/image_prune/))
 - If you just want to remove some specific dangling images from your machine:
