@@ -21,7 +21,7 @@ Please do the following things in order to be ready for the workshop:
 
 ### Windows
 
-- [Install the latest version of VS Code](https://code.visualstudio.com/Download)
+- [Install the latest version of VS Code](https://code.visualstudio.com/Download) and add the [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) extension
 - [Install the latest version of Git for Windows](https://gitforwindows.org)
   - Choose Visual Studio Code as Git's default editor during the installation procedure.  
     (fyi: The Git core.editor will be set in the git config --system properties)
@@ -31,7 +31,7 @@ Please do the following things in order to be ready for the workshop:
 
 ### macOS
 
-- [Install the latest version of VS Code](https://code.visualstudio.com/Download)
+- [Install the latest version of VS Code](https://code.visualstudio.com/Download) and add the [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) extension
 - [Install the latest version of Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
   - After the installation open up a [terminal window](https://www.macworld.co.uk/how-to/mac-software/how-use-terminal-on-mac-3608274/) and do the following things:
     - Check with `git --version` if Git returns its version number
@@ -43,7 +43,7 @@ Please do the following things in order to be ready for the workshop:
 
 ### Linux
 
-- [Install the latest version of VS Code](https://code.visualstudio.com/Download)
+- [Install the latest version of VS Code](https://code.visualstudio.com/Download) and add the [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) extension
 - [Install the latest version of Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03#installing-git-on-linux)
   - After the installation open up a [linux terminal](https://www.howtogeek.com/140679/beginner-geek-how-to-start-using-the-linux-terminal/) and do the following things:
     - Check with `git --version` if Git returns its version number
