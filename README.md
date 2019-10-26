@@ -62,7 +62,7 @@ Please do the following things in order to be ready for the workshop:
 - Open a terminal in the cloned/downloaded repo, navigate into the folder /gitea and execute `docker-compose up -d`  
   (this will pull down the latest Gitea docker image and spin up a container).
 - Navigate to [localhost:3000](http://localhost:3000/) in your browser. You should now see the start page of your Gitea installation!
-- Click the menu 'Explore' (upper left) and finish the database installation by simply clicking the button 'Install Gitea' at the very bottom of the page.
+- Click on 'Register' (at the upper right) and finish the SQLite3 database installation by simply clicking the button 'Install Gitea' at the very bottom of the page.
 
 That's it! Now you're armed and ready for the workshop!
 
