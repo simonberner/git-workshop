@@ -9,7 +9,7 @@ you will feel comfortable enough to use and further experiment with Git.
 
 For this workshop you should bring the following things along:
 
-- A modern laptop (OS: Linux, macOS or Windows10)
+- A modern laptop (OS: Linux, macOS or Windows10 (Pro/Enterprise/Education version))
 - Admin privileges on your laptop!
 - Please install all the things described in the Installation procedure below
 - A portion of humor and explorer enthusiasm!
@@ -37,7 +37,7 @@ Please do the following things in order to be ready for the workshop:
     - Check with `git --version` if Git returns its version number
     - Set VS Code as default Git editor by hitting `git config --global core.editor "code --wait"`
   - Optional:
-    - If you are using [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+    - If you are using [bash shell](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
     - If you are using [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell), you can add [Git completion to Zsh](https://medium.com/@oliverspryn/adding-git-completion-to-zsh-60f3b0e7ffbc)
 - [Install Docker CE](https://docs.docker.com/docker-for-mac/install/)
 
@@ -48,8 +48,8 @@ Please do the following things in order to be ready for the workshop:
   - After the installation open up a [linux terminal](https://www.howtogeek.com/140679/beginner-geek-how-to-start-using-the-linux-terminal/) and do the following things:
     - Check with `git --version` if Git returns its version number
     - Set VS Code as default Git editor by hitting `git config --global core.editor "code --wait"`
-  Optional:
-    - If you are using [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+      Optional:
+    - If you are using [bash shell](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
     - If you are using [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell), you can add [Git completion to Zsh](https://medium.com/@oliverspryn/adding-git-completion-to-zsh-60f3b0e7ffbc)
 - [Install Docker CE](https://docs.docker.com/install/)
 - [Install docker compose](https://docs.docker.com/compose/install)
