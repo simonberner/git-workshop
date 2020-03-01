@@ -28,6 +28,7 @@ Please do the following things in order to be ready for the workshop:
   - Other than that, proceed with the default settings
   - After the installation open up a Git Bash and check with `git --version` if Git returns its version number
 - [Install Docker CE](https://docs.docker.com/docker-for-windows/install/)
+  - Be sure to [switch to Linux containers if you’re using Windows!](https://docs.docker.com/docker-for-windows/#switch-between-windows-and-linux-containers)
 
 ### macOS
 
