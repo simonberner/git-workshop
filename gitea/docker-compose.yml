@@ -6,7 +6,7 @@ networks:
 
 services:
   server:
-    image: gitea/gitea:latest
+    image: gitea/gitea:1
     environment:
       - USER_UID=1000
       - USER_GID=1000
