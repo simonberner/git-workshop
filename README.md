@@ -14,7 +14,8 @@ For this workshop you should bring the following things along:
 - A portion of humor and explorer enthusiasm!
 
 ### If you join the online version of this workshop
-- All participants keep their webcam on for the whole duration of the workshop! This will enhance the quality of the communication and of the workshop as a whole. You won’t be sitting at your desk and just watching slides. You’ll be engaged activities for the majority of the time... almost as if we were in a real classroom.
+- Webcam: All participants keep their webcam on for the whole duration of the workshop! This will enhance the quality of the communication and of the workshop as a whole. You won’t be sitting at your desk and just watching slides. You’ll be engaged activities for the majority of the time... almost as if we were in a real classroom.
+- Microphone: Please make sure to have a proper microphone in place. Please mute yourself when you are not talking, others will thank you.
 
 ## Installation procedure
 Please do the following things in order to be ready for the workshop:  
