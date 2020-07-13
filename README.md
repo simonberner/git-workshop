@@ -28,8 +28,6 @@ Please do the following things in order to be ready for the workshop:
     (fyi: The Git core.editor will be set in the git config --system properties)
   - Other than that, proceed with the default settings
   - After the installation open up a Git Bash and check with `git --version` if Git returns its version number
-- [Install Docker CE](https://docs.docker.com/docker-for-windows/install/)
-  - Be sure to [switch to Linux containers if you’re using Windows!](https://docs.docker.com/docker-for-windows/#switch-between-windows-and-linux-containers)
 
 ### macOS
 - [Install the latest version of VS Code](https://code.visualstudio.com/Download) and add the [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) extension
@@ -40,7 +38,6 @@ Please do the following things in order to be ready for the workshop:
   - Optional:
     - If you are using [bash shell](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
     - If you are using [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell), you can add [Git completion to Zsh](https://medium.com/@oliverspryn/adding-git-completion-to-zsh-60f3b0e7ffbc)
-- [Install Docker CE](https://docs.docker.com/docker-for-mac/install/)
 
 ### Linux
 - [Install the latest version of VS Code](https://code.visualstudio.com/Download) and add the [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) extension
@@ -51,7 +48,6 @@ Please do the following things in order to be ready for the workshop:
       Optional:
     - If you are using [bash shell](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), you can install bash Git completion according to [this](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
     - If you are using [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell), you can add [Git completion to Zsh](https://medium.com/@oliverspryn/adding-git-completion-to-zsh-60f3b0e7ffbc)
-- [Install Docker CE](https://docs.docker.com/install/)
-- [Install docker compose](https://docs.docker.com/compose/install)
+    
 
 That's it! Now you're armed and ready for the workshop!
