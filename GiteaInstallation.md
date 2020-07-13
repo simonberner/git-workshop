@@ -1,3 +1,16 @@
+## Install Docker on your machine
+
+Windows
+- [Install Docker CE](https://docs.docker.com/docker-for-windows/install/)
+  - Be sure to [switch to Linux containers if you’re using Windows!](https://docs.docker.com/docker-for-windows/#switch-between-windows-and-linux-containers)
+
+macOS
+- [Install Docker CE](https://docs.docker.com/docker-for-mac/install/)
+
+Linux
+- [Install Docker CE](https://docs.docker.com/install/)
+- [Install docker compose](https://docs.docker.com/compose/install)
+
 ## Install Gitea on your machine
 
 - Start the Docker host/daemon on your machine.
