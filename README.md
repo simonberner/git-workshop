@@ -1,4 +1,4 @@
-# Git Like A Pro For Beginners
+# Git Like A Pro For Beginners / Git Foundations
 
 **Disclaimer**  
 This workshop covers by far not all the nuances which Git offers. The intention of this workshop is to
