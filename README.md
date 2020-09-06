@@ -2,8 +2,24 @@
 
 **Disclaimer**  
 This workshop covers by far not all the nuances which Git offers. The intention of this workshop is to
-give you a solid understanding of the concepts and the models of the version control system Git. After this workshop
+give you a solid foundation of the concepts and the models of the version control system Git. After this workshop
 you will feel comfortable enough to use and further experiment with Git.
+
+## Learning Outcomes
+After this workshop you will be ready and armed to:
+### Git Foundations (1.5h - 2h)
+- Install and configure Git on a machine
+- Describe the fundamental concepts of Git
+- Create you first commit and push it to a remote repository
+### Git Like A Pro For Beginners (4h - 8h)
+- To do all the things from the Foundations workshop
+- Use the basic Git commands like init, add, commit and push with confidence
+- Use the following new cool stuff which is not part of my freely available Test Automation University course:
+  - Switch
+  - Aliases
+  - Workshop specific Git Remote Repository manager
+- Apply the basic Git concepts at work and in private projects
+- Compare different branching and merge strategies
 
 ## Prerequisites
 For this workshop you should bring the following things along:
